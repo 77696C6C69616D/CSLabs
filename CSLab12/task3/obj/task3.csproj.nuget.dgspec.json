@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Desktop\\.tmp\\CSLab12\\task3\\task3.csproj": {}
+    "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Desktop\\.tmp\\CSLab12\\task3\\task3.csproj": {
+    "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Desktop\\.tmp\\CSLab12\\task3\\task3.csproj",
+        "projectUniqueName": "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/task3.csproj",
         "projectName": "task3",
-        "projectPath": "C:\\Users\\Home\\Desktop\\.tmp\\CSLab12\\task3\\task3.csproj",
-        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Desktop\\.tmp\\CSLab12\\task3\\obj\\",
+        "projectPath": "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/task3.csproj",
+        "packagesPath": "/home/dave/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/dave/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

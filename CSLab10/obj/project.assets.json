@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/d/C# Cour II/CSLab10/cspr.csproj",
+      "projectUniqueName": "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab10/cspr.csproj",
       "projectName": "cspr",
-      "projectPath": "/mnt/d/C# Cour II/CSLab10/cspr.csproj",
+      "projectPath": "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab10/cspr.csproj",
       "packagesPath": "/home/dave/.nuget/packages/",
-      "outputPath": "/mnt/d/C# Cour II/CSLab10/obj/",
+      "outputPath": "/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dave/.nuget/NuGet/NuGet.Config"

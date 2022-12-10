@@ -1,4 +1,4 @@
-              Result = 10
+               Result = 5
 Howard Phillips Lovecraft
     was an American 
     writer of weird,

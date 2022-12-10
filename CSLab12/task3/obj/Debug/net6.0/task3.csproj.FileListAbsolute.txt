@@ -1,15 +1,30 @@
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\bin\Debug\net6.0\task3.exe
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\bin\Debug\net6.0\task3.deps.json
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\bin\Debug\net6.0\task3.runtimeconfig.json
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\bin\Debug\net6.0\task3.dll
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\bin\Debug\net6.0\task3.pdb
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.dll
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\refint\task3.dll
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.pdb
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
-C:\Users\Home\Desktop\.tmp\CSLab12\task3\obj\Debug\net6.0\ref\task3.dll
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/bin/Debug/net6.0/task3.exe
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/bin/Debug/net6.0/task3.deps.json
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/bin/Debug/net6.0/task3.dll
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/bin/Debug/net6.0/task3.pdb
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.dll
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/refint/task3.dll
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.pdb
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+C:/Users/Home/Desktop/.tmp/CSLab12/task3/obj/Debug/net6.0/ref/task3.dll
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/bin/Debug/net6.0/task3
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/bin/Debug/net6.0/task3.deps.json
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/bin/Debug/net6.0/task3.dll
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/bin/Debug/net6.0/task3.pdb
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.dll
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/refint/task3.dll
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.pdb
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+/mnt/c/Users/Home/OneDrive/College/C# Cour II/CSLab12/task3/obj/Debug/net6.0/ref/task3.dll
