@@ -1,0 +1,15 @@
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/bin/Debug/net6.0/app1
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/bin/Debug/net6.0/app1.deps.json
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/bin/Debug/net6.0/app1.runtimeconfig.json
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/bin/Debug/net6.0/app1.dll
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/bin/Debug/net6.0/app1.pdb
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.csproj.AssemblyReference.cache
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.AssemblyInfoInputs.cache
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.AssemblyInfo.cs
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.csproj.CoreCompileInputs.cache
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.dll
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/refint/app1.dll
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.pdb
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/app1.genruntimeconfig.cache
+/mnt/c/users/melza/cs/C# Cour II/.template/app1/obj/Debug/net6.0/ref/app1.dll

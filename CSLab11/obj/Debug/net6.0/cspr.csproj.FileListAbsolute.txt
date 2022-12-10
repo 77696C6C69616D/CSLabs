@@ -1,0 +1,60 @@
+D:/cspr/bin/Debug/net6.0/cspr.exe
+D:/cspr/bin/Debug/net6.0/cspr.deps.json
+D:/cspr/bin/Debug/net6.0/cspr.runtimeconfig.json
+D:/cspr/bin/Debug/net6.0/cspr.dll
+D:/cspr/bin/Debug/net6.0/cspr.pdb
+D:/cspr/obj/Debug/net6.0/cspr.csproj.AssemblyReference.cache
+D:/cspr/obj/Debug/net6.0/cspr.GeneratedMSBuildEditorConfig.editorconfig
+D:/cspr/obj/Debug/net6.0/cspr.AssemblyInfoInputs.cache
+D:/cspr/obj/Debug/net6.0/cspr.AssemblyInfo.cs
+D:/cspr/obj/Debug/net6.0/cspr.csproj.CoreCompileInputs.cache
+D:/cspr/obj/Debug/net6.0/cspr.dll
+D:/cspr/obj/Debug/net6.0/refint/cspr.dll
+D:/cspr/obj/Debug/net6.0/cspr.pdb
+D:/cspr/obj/Debug/net6.0/cspr.genruntimeconfig.cache
+D:/cspr/obj/Debug/net6.0/ref/cspr.dll
+/mnt/d/cspr/bin/Debug/net6.0/cspr
+/mnt/d/cspr/bin/Debug/net6.0/cspr.deps.json
+/mnt/d/cspr/bin/Debug/net6.0/cspr.runtimeconfig.json
+/mnt/d/cspr/bin/Debug/net6.0/cspr.dll
+/mnt/d/cspr/bin/Debug/net6.0/cspr.pdb
+/mnt/d/cspr/obj/Debug/net6.0/cspr.csproj.AssemblyReference.cache
+/mnt/d/cspr/obj/Debug/net6.0/cspr.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/cspr/obj/Debug/net6.0/cspr.AssemblyInfoInputs.cache
+/mnt/d/cspr/obj/Debug/net6.0/cspr.AssemblyInfo.cs
+/mnt/d/cspr/obj/Debug/net6.0/cspr.csproj.CoreCompileInputs.cache
+/mnt/d/cspr/obj/Debug/net6.0/cspr.dll
+/mnt/d/cspr/obj/Debug/net6.0/refint/cspr.dll
+/mnt/d/cspr/obj/Debug/net6.0/cspr.pdb
+/mnt/d/cspr/obj/Debug/net6.0/cspr.genruntimeconfig.cache
+/mnt/d/cspr/obj/Debug/net6.0/ref/cspr.dll
+/mnt/d/C# Cour II/CSLab11/bin/Debug/net6.0/cspr
+/mnt/d/C# Cour II/CSLab11/bin/Debug/net6.0/cspr.deps.json
+/mnt/d/C# Cour II/CSLab11/bin/Debug/net6.0/cspr.runtimeconfig.json
+/mnt/d/C# Cour II/CSLab11/bin/Debug/net6.0/cspr.dll
+/mnt/d/C# Cour II/CSLab11/bin/Debug/net6.0/cspr.pdb
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.csproj.AssemblyReference.cache
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.AssemblyInfoInputs.cache
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.AssemblyInfo.cs
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.csproj.CoreCompileInputs.cache
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.dll
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/ref/cspr.dll
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.pdb
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/cspr.genruntimeconfig.cache
+/mnt/d/C# Cour II/CSLab11/obj/Debug/net6.0/refint/cspr.dll
+D:\C# Cour II\CSLab11\bin\Debug\net6.0\cspr.exe
+D:\C# Cour II\CSLab11\bin\Debug\net6.0\cspr.deps.json
+D:\C# Cour II\CSLab11\bin\Debug\net6.0\cspr.runtimeconfig.json
+D:\C# Cour II\CSLab11\bin\Debug\net6.0\cspr.dll
+D:\C# Cour II\CSLab11\bin\Debug\net6.0\cspr.pdb
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.csproj.AssemblyReference.cache
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.AssemblyInfoInputs.cache
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.AssemblyInfo.cs
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.csproj.CoreCompileInputs.cache
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.dll
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\refint\cspr.dll
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.pdb
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\cspr.genruntimeconfig.cache
+D:\C# Cour II\CSLab11\obj\Debug\net6.0\ref\cspr.dll
