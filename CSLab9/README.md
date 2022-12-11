@@ -20,5 +20,11 @@
 ## Програма: [CSLab9](https://github.com/77696C6C69616D/CSLabs/blob/master/CSLab9/Program.cs)
 ---
 ## Результат:
+
 <p align="center"><img src="../img/csl9-1.png"></p>
+
+---
+
+<p align="center"><img src="../img/csl9-2.png"></p>
+
 ---
