@@ -1,5 +1,6 @@
 namespace CSLab13 {
     using Terminal.Gui;
+<<<<<<< HEAD
     
     
     public partial class MyDialog {
@@ -8,5 +9,14 @@ namespace CSLab13 {
             InitializeComponent();
         }
         
+=======
+
+    public partial class MyDialog {
+        
+        
+        public MyDialog() {
+            InitializeComponent();
+        }        
+>>>>>>> make layout
     }
 }
