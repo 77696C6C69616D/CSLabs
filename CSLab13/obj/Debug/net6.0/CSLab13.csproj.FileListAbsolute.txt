@@ -1,30 +1,51 @@
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\bin\Debug\net6.0\CSLab13.exe
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\bin\Debug\net6.0\CSLab13.deps.json
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\bin\Debug\net6.0\CSLab13.runtimeconfig.json
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\bin\Debug\net6.0\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\bin\Debug\net6.0\CSLab13.pdb
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.csproj.AssemblyReference.cache
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.AssemblyInfoInputs.cache
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.AssemblyInfo.cs
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.csproj.CoreCompileInputs.cache
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\refint\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.pdb
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\CSLab13.genruntimeconfig.cache
-C:\Users\Home\Desktop\.tmp\.cs\CSLab13\obj\Debug\net6.0\ref\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.csproj.AssemblyReference.cache
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.AssemblyInfoInputs.cache
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.AssemblyInfo.cs
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.csproj.CoreCompileInputs.cache
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\refint\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.pdb
-C:\Users\Home\Desktop\.tmp\CSLab13\bin\Debug\net6.0\CSLab13.exe
-C:\Users\Home\Desktop\.tmp\CSLab13\bin\Debug\net6.0\CSLab13.deps.json
-C:\Users\Home\Desktop\.tmp\CSLab13\bin\Debug\net6.0\CSLab13.runtimeconfig.json
-C:\Users\Home\Desktop\.tmp\CSLab13\bin\Debug\net6.0\CSLab13.dll
-C:\Users\Home\Desktop\.tmp\CSLab13\bin\Debug\net6.0\CSLab13.pdb
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\CSLab13.genruntimeconfig.cache
-C:\Users\Home\Desktop\.tmp\CSLab13\obj\Debug\net6.0\ref\CSLab13.dll
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/bin/Debug/net6.0/CSLab13.exe
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/bin/Debug/net6.0/CSLab13.deps.json
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/bin/Debug/net6.0/CSLab13.runtimeconfig.json
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/bin/Debug/net6.0/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/bin/Debug/net6.0/CSLab13.pdb
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.csproj.AssemblyReference.cache
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.AssemblyInfoInputs.cache
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.AssemblyInfo.cs
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.csproj.CoreCompileInputs.cache
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/refint/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.pdb
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/CSLab13.genruntimeconfig.cache
+C:/Users/Home/Desktop/.tmp/.cs/CSLab13/obj/Debug/net6.0/ref/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.csproj.AssemblyReference.cache
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.AssemblyInfoInputs.cache
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.AssemblyInfo.cs
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.csproj.CoreCompileInputs.cache
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/refint/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.pdb
+C:/Users/Home/Desktop/.tmp/CSLab13/bin/Debug/net6.0/CSLab13.exe
+C:/Users/Home/Desktop/.tmp/CSLab13/bin/Debug/net6.0/CSLab13.deps.json
+C:/Users/Home/Desktop/.tmp/CSLab13/bin/Debug/net6.0/CSLab13.runtimeconfig.json
+C:/Users/Home/Desktop/.tmp/CSLab13/bin/Debug/net6.0/CSLab13.dll
+C:/Users/Home/Desktop/.tmp/CSLab13/bin/Debug/net6.0/CSLab13.pdb
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/CSLab13.genruntimeconfig.cache
+C:/Users/Home/Desktop/.tmp/CSLab13/obj/Debug/net6.0/ref/CSLab13.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.csproj.AssemblyReference.cache
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.AssemblyInfoInputs.cache
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.AssemblyInfo.cs
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.csproj.CoreCompileInputs.cache
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/refint/CSLab13.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.pdb
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/CSLab13
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/CSLab13.deps.json
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/CSLab13.runtimeconfig.json
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/CSLab13.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/CSLab13.pdb
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/NStack.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/Terminal.Gui.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/fr-FR/Terminal.Gui.resources.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/ja-JP/Terminal.Gui.resources.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/bin/Debug/net6.0/pt-PT/Terminal.Gui.resources.dll
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.csproj.CopyComplete
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/CSLab13.genruntimeconfig.cache
+/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/obj/Debug/net6.0/ref/CSLab13.dll
