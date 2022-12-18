@@ -10,23 +10,16 @@ namespace CSLab13
             int[,] matrix = new int[width, height];
             return matrix;
         }
-        public void ViewResult(){ 
-            
-        }
-        public void DocumentResult(string File = "")
-        { 
-
+        public void ViewResult(){    
         }
         public int GetTime(int time = 0)
         {
             return time;
         }
-
         public int GetScore(int score = 0)
         {
             return score;
         }
-
         public int[,] ScoreTable(int[,] table)
         {
             return table;
