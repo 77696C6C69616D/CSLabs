@@ -96,8 +96,8 @@ namespace CSLab13
         }
         public string ConvertTimer(int time)
         {
-            int tmp = time / 100;
-            string cout = (tmp < 60) ? $"{tmp}" : $"{tmp / 60}";
+            double tmp = time / 1000;
+            string cout = (tmp < 60) ? $"{Math.Round(tmp)}" : $"{Math.Round(tmp / 60, 2)}";
             return cout;
         }
         public string StartGame()
@@ -109,7 +109,6 @@ namespace CSLab13
             var Timer = System.Diagnostics.Stopwatch.StartNew();
             while (true)
             {
-                break;
                 DisplayField(matrix);
                 IsBomb(matrix, ChooseCell());
                 if (attempts == 0)
@@ -118,13 +117,9 @@ namespace CSLab13
                     break;
                 }
             }
-            Console.Read();
-            Timer.Stop();
             int time = Convert.ToInt32(Timer.ElapsedMilliseconds);
             string cout = $"Рахунок:{score} Час:{ConvertTimer(time)}";
             return cout;
         }
-
-
     }
 }
