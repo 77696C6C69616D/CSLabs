@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSbV9Mc0+hSnEmh3dUH9iNg+ExHn6pKMp3h4gtTw+RahQ4K5+/CGGh07Qd9ooM/YK5MrvO8o/ETDt9uecOUOYQ==",
+  "success": true,
+  "projectFilePath": "/mnt/c/users/home/onedrive/college/C# Cour II/CSLab13/CSLab13.csproj",
+  "expectedPackageFiles": [
+    "/home/dave/.nuget/packages/nstack.core/1.0.3/nstack.core.1.0.3.nupkg.sha512",
+    "/home/dave/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/dave/.nuget/packages/terminal.gui/1.8.2/terminal.gui.1.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
