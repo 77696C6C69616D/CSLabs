@@ -8,7 +8,7 @@ namespace CSLab13
         public int[,] MatrixInit(int size)
         {
             Random rn = new Random();
-            attempts = (size * size) / 3;
+            attempts = (size * size) / 2;
             int[,] matrix = new int[size, size];
             int len = Convert.ToInt32(Math.Sqrt(matrix.Length));
             for (int inner = 0; inner < len; inner++)
@@ -120,6 +120,30 @@ namespace CSLab13
             int time = Convert.ToInt32(Timer.ElapsedMilliseconds);
             string cout = $"Рахунок:{score} Час:{ConvertTimer(time)}";
             return cout;
+        }
+        public void DisplayScoreBase(List<string> list)
+        {
+            Console.Clear();
+            int max = 0;
+            foreach (var inner in list)
+            {
+                if (inner.Length > max)
+                {
+                    max = inner.Length;
+                }
+            }
+            Console.WriteLine("╔" + String.Concat(Enumerable.Repeat("═", max + 2)) + "╗");
+            for (int index = 0; index < list.Count(); index++)
+            {
+                int spaces = max - list[index].Length;
+                Console.WriteLine("║ " + list[index] + String.Concat(Enumerable.Repeat(" ", spaces)) + " ║");
+                if (index == list.Count() - 1)
+                {
+                    break;
+                }
+                Console.WriteLine("╠" + String.Concat(Enumerable.Repeat("═", max + 2)) + "╣");
+            }
+            Console.WriteLine("╚" + String.Concat(Enumerable.Repeat("═", max + 2)) + "╝");
         }
     }
 }
